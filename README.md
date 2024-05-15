@@ -23,3 +23,4 @@ echo urlencode("http://www.image.com/?username=unknown&password=unknown");
 ```
 
 URL deployed https://let-me-apy.vercel.app
+URL to consume https://let-me-apy.vercel.app/cors/
